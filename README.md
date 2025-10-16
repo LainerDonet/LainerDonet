@@ -6,7 +6,7 @@
 </p>
 
 <!--<h1 align="center">🤠🔥 Hola, soy <span style="color:#e63946;">Lainer F. Donet</span> — The Coder Unchained</h1>-->
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FFFFFF&width=435&lines=Soy+Lainer+-+The+Coder+Unchained!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=900&pause=1000&color=FFFFFF&center=true&multiline=true&width=435&lines=Hola+Soy+Lainer;The+Coder+Unchained!)](https://git.io/typing-svg)
 <p align="center">
   <em>“Libre, salvaje y con código en el alma.”</em>
 </p>
