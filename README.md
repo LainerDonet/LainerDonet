@@ -5,8 +5,8 @@
   <img src="django_unchained.gif" width="600px" alt="Django Unchained Title Animation"/>
 </p>
 
-<h1 align="center">🤠🔥 Hola, soy <span style="color:#e63946;">Lainer F. Donet</span> — The Coder Unchained</h1>
-
+<!--<h1 align="center">🤠🔥 Hola, soy <span style="color:#e63946;">Lainer F. Donet</span> — The Coder Unchained</h1>-->
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Comic+Sans&weight=900&size=40&duration=3000&pause=1000&color=ffffff&center=true&vCenter=true&width=435&lines=%C2%A1Hola%2C+soy+Lainer!)](https://git.io/typing-svg)
 <p align="center">
   <em>“Libre, salvaje y con código en el alma.”</em>
 </p>
