@@ -2,7 +2,7 @@
 <!-- Autor: Tu Lainer F Donet Vasconcellos -->
 
 <p align="center">
-  <img src="Django_Wallapaper_animado.webp" width="600px" alt="Django Unchained Title Animation"/>
+  <img src="Djando_Wallapaper_animado.webp" width="600px" alt="Django Unchained Title Animation"/>
 </p>
 
 <h1 align="center">🤠🔥 Hola, soy <span style="color:#e63946;">Lainer F. Donet</span> — The Coder Unchained</h1>
